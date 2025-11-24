@@ -67,7 +67,28 @@ This repository will be expanded to include setup configurations for additional 
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you have setup configurations for other MCP servers, feel free to submit a pull request.
+Contributions are welcome! If you have setup configurations for other MCP servers, we'd love to have them.
+
+### 🔒 Branch Protection
+
+The `main` branch is **protected**. All changes must go through pull requests.
+
+**Branching Strategy:**
+- `main` - Protected, production-ready code
+- `development` - Active development branch
+- `feature/*` - Feature branches (create from development)
+
+### How to Contribute
+
+1. Fork or clone the repository
+2. Create a feature branch from `development`
+3. Make your changes
+4. Submit a pull request to `development`
+5. After review, changes will be merged
+
+**📖 Read the full guidelines:**
+- **[CONTRIBUTING.md](./CONTRIBUTING.md)** - Contribution workflow and standards
+- **[BRANCH_PROTECTION_SETUP.md](./BRANCH_PROTECTION_SETUP.md)** - How to enable branch protection
 
 ---
 
