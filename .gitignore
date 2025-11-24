@@ -1,0 +1,12 @@
+# Environment files with tokens
+.env
+*.token
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+

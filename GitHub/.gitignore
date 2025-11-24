@@ -1,0 +1,19 @@
+# GitHub MCP Server Configuration
+github-mcp-server*
+*.exe
+*.zip
+*.tar.gz
+
+# Configuration files with tokens
+claude_desktop_config.json
+.env
+*.token
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+

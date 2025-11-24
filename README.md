@@ -1,0 +1,83 @@
+# MCP-Server Collection
+
+This repository contains setup configurations and documentation for various MCP (Model Context Protocol) servers.
+
+## 📦 Available MCP Servers
+
+### [GitHub MCP Server](./GitHub/)
+
+Complete setup and configuration for the **GitHub MCP Server** - enabling AI assistants like Claude Desktop to interact with GitHub repositories.
+
+**Features:**
+- ✅ Automated installation scripts (Windows, macOS, Linux)
+- ✅ Complete documentation and guides  
+- ✅ 50+ example prompts
+- ✅ Troubleshooting support
+- ✅ Security-first approach
+
+**Quick Start:**
+```bash
+cd GitHub
+# Follow the README.md in the GitHub folder
+```
+
+**[→ Go to GitHub MCP Server Setup](./GitHub/)**
+
+---
+
+## 🚀 Getting Started
+
+Each MCP server has its own directory with:
+- Complete setup instructions
+- Automated installation scripts
+- Configuration examples
+- Documentation and guides
+
+Navigate to the specific MCP server folder to begin setup.
+
+---
+
+## 📋 Repository Structure
+
+```
+MCP-Server/
+├── README.md          # This file
+└── GitHub/            # GitHub MCP Server setup
+    ├── README.md
+    ├── SETUP_GUIDE.md
+    ├── setup-windows.ps1
+    ├── setup-unix.sh
+    └── ... (all documentation)
+```
+
+---
+
+## 🔮 Future MCP Servers
+
+This repository will be expanded to include setup configurations for additional MCP servers as they become available.
+
+**Potential additions:**
+- GitLab MCP Server
+- Jira MCP Server
+- Slack MCP Server
+- Custom MCP Servers
+- And more...
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have setup configurations for other MCP servers, feel free to submit a pull request.
+
+---
+
+## 📞 Support
+
+For issues specific to a particular MCP server, please refer to the documentation within that server's directory.
+
+---
+
+**Repository maintained by:** [patelajay005](https://github.com/patelajay005)
+
+**License:** MIT (see individual server directories for specific licenses)
+
